@@ -6,6 +6,7 @@
 
 
 ![Cadugv GitHub stats](https://github-readme-stats.vercel.app/api?username=Cadugv&show_icons=true&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cadugv&layout=compact)
 
 ## Tecnologias que uso no meu dia
 
