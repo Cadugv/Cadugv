@@ -5,7 +5,6 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]()
 
 
-![Cadugv GitHub stats](https://github-readme-stats.vercel.app/api?username=Cadugv&show_icons=true&theme=dracula)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cadugv&layout=compact)
 
 ## Tecnologias que uso no meu dia
