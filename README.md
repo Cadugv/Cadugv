@@ -5,7 +5,11 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]()
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cadugv&layout=compact)
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Cadugv&show_icons=true&count_private=true&hide_border=true&title_color=9370DB&icon_color=FFFAFA&text_color=ff91a4&bg_color=0d1117" alt="Carlos github stats" /> 
+
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cadugv&layout=compact&hide_border=true&title_color=9370DB&text_color=ff91a4&bg_color=0d1117" />
+</div>
 
 ## Tecnologias que uso no meu dia
 
